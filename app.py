@@ -9,8 +9,10 @@ from gensim.models import Word2Vec
 from scipy.sparse import hstack, csr_matrix
 
 nltk.download("punkt")
+nltk.download("punkt_tab")   # ✅ REQUIRED ON STREAMLIT CLOUD
 nltk.download("stopwords")
 nltk.download("wordnet")
+
 
 # Load models
 svm_model = joblib.load("model/svm_model.pkl")
