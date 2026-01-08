@@ -4,6 +4,8 @@ A deployed Natural Language Processing (NLP) application that classifies airline
 
 This project compares public sentiment between **Turkish Airlines** and **Qatar Airways** using real-world customer reviews and provides a live web interface for sentiment prediction.
 
+Try it out at : https://airline-sentiment-analysis-app-g9sxjbs782zjjbohojjs4k.streamlit.app/ 
+
 ---
 
 ## 🎯 Objective
