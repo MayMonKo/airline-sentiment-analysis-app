@@ -1,4 +1,4 @@
-# ✈️ Airline Review Sentiment Analysis Web App
+# Airline Review Sentiment Analysis Web App
 
 A deployed Natural Language Processing (NLP) application that classifies airline customer reviews into **Positive**, **Neutral**, or **Negative** sentiment using machine learning.
 
@@ -8,7 +8,7 @@ Try it out at : https://airline-sentiment-analysis-app-g9sxjbs782zjjbohojjs4k.st
 
 ---
 
-## 🎯 Objective
+## Objective
 
 - Perform supervised sentiment analysis on airline customer reviews
 - Compare sentiment distributions between two competing airlines
@@ -17,7 +17,7 @@ Try it out at : https://airline-sentiment-analysis-app-g9sxjbs782zjjbohojjs4k.st
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** Kaggle – Airline Reviews Dataset  
 - **Time Range:** 2023  
@@ -32,7 +32,7 @@ Sentiment labels are derived from numerical ratings:
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 ### Text Preprocessing
 - Lowercasing
@@ -55,7 +55,7 @@ Hyperparameter tuning and class weighting were applied.
 
 ---
 
-## 📈 Evaluation
+## Evaluation
 
 - Metrics: Accuracy, Precision, Recall, F1-score
 - Per-class analysis revealed neutral sentiment as the most challenging
@@ -63,7 +63,7 @@ Hyperparameter tuning and class weighting were applied.
 
 ---
 
-## 🌐 Web Application
+## Web Application
 
 The Streamlit web app allows users to:
 - Enter a new airline review
